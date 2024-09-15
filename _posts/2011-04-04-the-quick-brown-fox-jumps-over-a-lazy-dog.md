@@ -1,6 +1,6 @@
 ---
 date: 2024-09-02 12:26:40
-layout: blog
+layout: post
 title: week1
 subtitle: week1
 description: See what we have done in the first week of class.
