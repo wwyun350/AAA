@@ -2,7 +2,7 @@
 date: 2024-09-02 12:26:40
 layout: post
 title: week1
-subtitle: week1
+subtitle: week1 meeting
 description: See what we have done in the first week of class.
 image: >-
   https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
@@ -11,7 +11,7 @@ optimized_image: >-
 tags:
   - css
   - tips
-author: wwyun
+author: Guangyun Wu,Yongyan Zhao,Chenyang Pan
 ---
 On 09/02/2024, after the first lecture, Yongyan Zhao, Guangyun Wu, Chenyang Pan, formed the team. On the same day, the team was officially named TeamAAA, meaning A-class team member, A-class solution and A-class product. Later that day, professor Yingze Jin was affirmed as the project instructor.
 
