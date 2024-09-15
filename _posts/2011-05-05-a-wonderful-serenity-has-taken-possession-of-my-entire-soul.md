@@ -1,17 +1,17 @@
 ---
-date: 2018-07-20 12:26:40
+date: 2024-09-02 12:26:40
 layout: post
-title: A wonderful serenity has taken possession of my entire soul
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
-category: code
+title: week1
+subtitle: week1
+description: See what we have done in the first week of class.
+image: >-
+  https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
+optimized_image: >- 
+  https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 tags:
-  - platform
-  - javascript
-  - vscode
-author: mranderson
+  - css
+  - tips
+author: wwyun
 ---
 On 09/02/2024, after the first lecture, Yongyan Zhao, Guangyun Wu, Chenyang Pan, formed the team. On the same day, the team was officially named TeamAAA, meaning A-class team member, A-class solution and A-class product. Later that day, professor Yingze Jin was affirmed as the project instructor.
 
