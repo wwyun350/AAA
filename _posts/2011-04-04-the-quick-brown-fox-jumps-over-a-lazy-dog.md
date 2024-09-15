@@ -3,12 +3,12 @@ date: 2024-09-02 12:26:40
 layout: post
 title: week1
 subtitle: week1 meeting
-category: 'blog'
 description: See what we have done in the first week of class.
 image: >-
   https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 optimized_image: >- 
   https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
+category: diet
 tags:
   - BLOG
   - tips
