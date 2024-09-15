@@ -4,8 +4,10 @@ layout: blog
 title: week1
 subtitle: week1
 description: See what we have done in the first week of class.
-image: https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
-optimized_image: https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
+image: >-
+  https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
+optimized_image: >- 
+  https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 tags:
   - css
   - tips
