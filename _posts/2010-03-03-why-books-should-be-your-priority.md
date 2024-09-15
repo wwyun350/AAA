@@ -1,17 +1,14 @@
-![{85A4ADD0-6FA2-40AD-96B6-3BB504E1F9EF}](https://github.com/user-attachments/assets/87003acd-a268-416b-8673-f0b0fe1d2551)---
 date: 2024-09-02 12:26:40
-layout: post
-title: Week1
-subtitle: See what we have done in the first week of class..
+layout: blog
+title: week1
+subtitle: week1
 description: See what we have done in the first week of class.
 image: https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
-optimized_image:https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
-category: 
+optimized_image: https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 tags:
-  - 1
-  - 1
-author: mranderson
-paginate: true
+  - css
+  - tips
+author: wwyun
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
