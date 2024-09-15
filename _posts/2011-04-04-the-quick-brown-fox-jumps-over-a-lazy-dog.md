@@ -1,7 +1,7 @@
 ---
 date: 2024-09-02 12:26:40
 layout: post
-title: week1 111111111
+title: week1
 subtitle: week1 meeting
 description: See what we have done in the first week of class.
 image: >-
