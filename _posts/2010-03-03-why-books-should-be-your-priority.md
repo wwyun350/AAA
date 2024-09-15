@@ -1,5 +1,5 @@
 ![{85A4ADD0-6FA2-40AD-96B6-3BB504E1F9EF}](https://github.com/user-attachments/assets/87003acd-a268-416b-8673-f0b0fe1d2551)---
-date: 09/02/2024--09/08/2024
+date: 2024-09-02 12:26:40
 layout: post
 title: Week1
 subtitle: See what we have done in the first week of class..
@@ -8,8 +8,8 @@ image: https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36
 optimized_image:https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 category: 
 tags:
-  - 
-  - 
+  - 1
+  - 1
 author: mranderson
 paginate: true
 ---
