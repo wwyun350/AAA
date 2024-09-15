@@ -1,16 +1,17 @@
 ---
 date: 2024-09-02 12:26:40
 layout: post
-title: week1
-subtitle: week1
+title: week1 111111111
+subtitle: week1 meeting
 description: See what we have done in the first week of class.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
-category: css
+image: >-
+  https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
+optimized_image: >- 
+  https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 tags:
-  - css
+  - BLOG
   - tips
-author: Guangyun Wu
+author: Guangyun Wu,Yongyan Zhao,Chenyang Pan
 ---
 On 09/02/2024, after the first lecture, Yongyan Zhao, Guangyun Wu, Chenyang Pan, formed the team. On the same day, the team was officially named TeamAAA, meaning A-class team member, A-class solution and A-class product. Later that day, professor Yingze Jin was affirmed as the project instructor.
 
@@ -20,4 +21,3 @@ On 09/08/2024, TeamAAA arranged a group meeting to discuss the project content. 
 2.	Waste Management System for Dormitories
 3.	Smart Lighting System for Dormitories
 With these potential projects in hand, we will discuss with Dr. Jin for further instruction in the coming weeks to select the best one to work on. For detailed information, please contact us for the problem statement. document, which contains the description for the 3 proposals.
-
