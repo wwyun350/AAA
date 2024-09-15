@@ -4,7 +4,7 @@ layout: post
 title: Week1
 subtitle: See what we have done in the first week of class..
 description: See what we have done in the first week of class.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
+image: https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 optimized_image:https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 category: 
 tags:
