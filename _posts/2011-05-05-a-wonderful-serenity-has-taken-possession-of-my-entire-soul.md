@@ -9,7 +9,7 @@ image: >-
 optimized_image: >- 
   https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
 tags:
-  - css
+  - BLOG
   - tips
 author: Guangyun Wu,Yongyan Zhao,Chenyang Pan
 ---
