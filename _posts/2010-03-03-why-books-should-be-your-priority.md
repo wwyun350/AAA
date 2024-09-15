@@ -1,15 +1,15 @@
----
-date: 2018-11-22 12:26:40
+![{85A4ADD0-6FA2-40AD-96B6-3BB504E1F9EF}](https://github.com/user-attachments/assets/87003acd-a268-416b-8673-f0b0fe1d2551)---
+date: 09/02/2024--09/08/2024
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Week1
+subtitle: See what we have done in the first week of class..
+description: See what we have done in the first week of class.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+optimized_image:https://res.cloudinary.com/dxmbnx0h6/image/upload/v1726399987/miwo2o8cj36oqeizalm1.jpg
+category: 
 tags:
-  - books
-  - read
+  - 
+  - 
 author: mranderson
 paginate: true
 ---
